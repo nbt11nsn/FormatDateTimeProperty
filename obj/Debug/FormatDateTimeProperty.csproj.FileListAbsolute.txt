@@ -1,0 +1,5 @@
+C:\Projects\Transdev\Integrations\Shared\Shared.PipelineComponents\FormatDateTimeProperty\bin\Debug\FormatDateTimeProperty.dll
+C:\Projects\Transdev\Integrations\Shared\Shared.PipelineComponents\FormatDateTimeProperty\bin\Debug\FormatDateTimeProperty.pdb
+C:\Projects\Transdev\Integrations\Shared\Shared.PipelineComponents\FormatDateTimeProperty\obj\Debug\FormatDateTimeProperty.csprojResolveAssemblyReference.cache
+C:\Projects\Transdev\Integrations\Shared\Shared.PipelineComponents\FormatDateTimeProperty\obj\Debug\FormatDateTimeProperty.dll
+C:\Projects\Transdev\Integrations\Shared\Shared.PipelineComponents\FormatDateTimeProperty\obj\Debug\FormatDateTimeProperty.pdb
